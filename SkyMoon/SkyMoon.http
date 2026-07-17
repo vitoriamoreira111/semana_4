@@ -1,0 +1,6 @@
+@SkyMoon_HostAddress = http://localhost:5077
+
+GET {{SkyMoon_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
